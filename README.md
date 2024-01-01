@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello, World! 👋
 
-<!--
-**Zilonis123/Zilonis123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Karlis 👨‍💻
+🌐 **Languages:**
+- Python 🐍
+- JavaScript 🌐
 
-Here are some ideas to get you started:
+⌛ **Experience:**
+- 4+ years of programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **Current Focus:**
+- Currently learning and expanding my skill set.
+
+🤝 **Let's Connect:**
+- GitHub: [Zilonis123](https://github.com/Zilonis123)
+- Discord: burkanins
+- Email: kazaks.karlis4@gmail.com
+
+Feel free to explore my repositories and don't hesitate to reach out! 🚀
